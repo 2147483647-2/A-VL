@@ -1,6 +1,5 @@
 # A-VL: Adaptive Attention for Large Vision-Language Models
 
-
 ## Installation
 
 #### Step 1: Create a conda environment.
@@ -88,3 +87,5 @@ Please cite our article
   year={2025}
 }
 ```
+
+We will continue to improve the code. If you have any questions, please contact the author: zhangjunyang@mail.ustc.edu.cn
